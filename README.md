@@ -23,10 +23,8 @@ The dashboard provides insights into:
 - Inventory Stock vs Reorder Levels
 - Supplier Lead Time Analysis
 
-## 📁 Project Files
-- `reports/` → Dashboard PDF
-- `data/` → Dataset used for analysis
-- `images/` → Dashboard screenshots
+# Fabric cration vedio
+https://drive.google.com/file/d/1amcvTepJfPmp3sRLHv0ucuZpPxw1L9RA/view?usp=drive_link
 
 ## 🚀 How This Was Built
 1. Data loaded into Microsoft Fabric Lakehouse
