@@ -1,4 +1,4 @@
-# 👗 Apparel Industry Sales & Inventory Dashboard
+# 👗 Apparel Industry Sales & Inventory Dashboard- Microsoft Fabric And Power BI
 
 ## 📌 Project Overview
 This project analyzes sales performance and inventory management in the apparel industry using **Microsoft Fabric and Power BI**.
