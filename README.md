@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/apparel-sales-inventory-banner.png" alt="Apparel Industry Sales & Inventory Dashboard" width="100%">
+</p>
+
+----
 # 👗 Apparel Industry Sales & Inventory Dashboard- Microsoft Fabric And Power BI
 
 ## 📌 Project Overview
